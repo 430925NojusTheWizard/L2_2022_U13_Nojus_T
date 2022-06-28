@@ -38,4 +38,4 @@
 
 * Note: i would change the other phone specs into table but was pressed on time
 
-* Note: The cards in the product section would have phone descriptions and redirect to their respective pages but was pressed on time 
+* Note: The cards in the product section would have phone descriptions and redirect to their respective pages but was pressed on time
